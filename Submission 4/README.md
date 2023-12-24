@@ -57,5 +57,5 @@ Resolve the errors and warnings that are shown in the application.
 ### Support
 
 If you have any problems or questions, go to our youtube channel, where we will help you as quickly as possible: 
-	i) Preview--  https://youtu.be/JFELgoP5rYE
-	ii) Code-- https://youtu.be/vHEqosY6Ptk
+	i) Preview--  https://youtu.be/_i0Yy111pqI
+	ii) Code-- https://youtu.be/JFELgoP5rYE
