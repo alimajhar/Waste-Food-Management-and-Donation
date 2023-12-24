@@ -36,22 +36,6 @@ After successful build, your application structure should look like this:
     └── widgets                     - It contains all custom widget classes
 ```
 
-### How to format your code?
-
-- if your code is not formatted then run following command in your terminal to format code
-  ```
-  dart format .
-  ```
-
-### How you can improve code readability?
-
-Resolve the errors and warnings that are shown in the application.
-
-### Libraries and tools used
-
-- Provider - State management
-
-- cached_network_image - For storing internet image into cache
 
 
 ### Support
