@@ -4,7 +4,6 @@
 - [System requirements](#system-requirements)
 - [Check the UI of the entire app](#app-navigations)
 - [Application structure](#project-structure)
-- [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
 - [Support](#support)
 
 ### System requirements
@@ -45,9 +44,6 @@ After successful build, your application structure should look like this:
   dart format .
   ```
 
-### How you can improve code readability?
-
-Resolve the errors and warnings that are shown in the application.
 
 
 ### Support
