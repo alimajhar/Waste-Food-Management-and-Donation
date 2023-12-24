@@ -1,0 +1,6 @@
+package com.wastefoodmanagementanddonation.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
